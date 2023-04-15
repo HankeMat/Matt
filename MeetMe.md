@@ -2,4 +2,4 @@
 - I’m interested in Game Development and Web design.
 - I’m currently learning C, C++, PHP, HTML, CSS, and many others.
 - I´m a IT student and it´s also my passion.
-- I live in the Czech Republic, so I prefer the Czech language, on the other hand, English isn´t such a problem for me
+- I live in the Czech Republic, so I prefer the Czech language, on the other hand, English isn´t such a problem for me.
